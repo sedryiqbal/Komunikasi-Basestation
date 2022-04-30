@@ -1,0 +1,95 @@
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\Pelajaran\kuliah\ROBOT\BaseStation\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\Ilmu\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ILMU\Politeknik Negeri Sriwijaya\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+H:\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+H:\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+H:\Comunication Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+H:\Comunication Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+H:\Comunication_Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+H:\Comunication_Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+H:\Comunication_Basesation\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+H:\Comunication_Basesation\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOT\KRSBI 2020 Versi COVID 19\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.Cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.exe
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.pdb
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\bin\Debug\Comunication Basesation.xml
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.AssemblyReference.cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Form1.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication_Basesation.Resources.resources
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.GenerateResource.cache
+D:\SEDRY MUHAMMAD IQBAL\ROBOTIKA\KRSBI 2021\Komunikasi\Comunication_Basesation_New\Comunication_Basesation_New\Comunication Basesation\obj\x86\Debug\Comunication Basesation.vbproj.CoreCompileInputs.cache
